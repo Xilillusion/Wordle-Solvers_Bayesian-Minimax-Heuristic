@@ -36,7 +36,9 @@ Download both `WordleSolver.exe` and `word.txt`. You can update word.txt with th
 | `Fixed`     | 3.9853                       | -              | -                |
 
 *Filtered: search_all=False
+
 *All: search_all=True*
+
 *In general, the time consumption of Filtered < All
 
 ### Description
