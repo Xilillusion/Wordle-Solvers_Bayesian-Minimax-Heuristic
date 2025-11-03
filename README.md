@@ -62,12 +62,8 @@ Download both `WordleSolver.exe` and `word.txt`. You can update word.txt with th
 ### Heuristic Solvers
 <img src="https://github.com/user-attachments/assets/baa00c92-b8f0-4458-a571-fe5c49d84855" alt="Heuristic" width="500"/>
 
-## Prerequisites
+## Libraries
 - tqdm
 - matplotlib
 - Tkinter
 - sqlite
-
-## To-Do
-- [x] Update graphs in README
-- [x] Apply decision tree
