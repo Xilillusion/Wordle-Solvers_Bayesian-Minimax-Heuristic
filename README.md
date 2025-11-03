@@ -29,9 +29,9 @@ Download both `WordleSolver.exe` and `word.txt`. You can update word.txt with th
 ## Solvers
 | Solver      | Average Attempts (*Filtered) | (*All)         | Time Consumption |
 | ----------- | ---------------------------- | -------------- | ---------------- |
-| `Bayesian`  | 3.6050                       | 3.5613         | Very high        |
-| `Minimax`   | 3.6786                       | 3.6856         | High             |
-| `Heuristic` | 3.6626                       | 3.7397         | Very low         |
+| `Bayesian`  | 3.6050                       | 3.5613         |         |
+| `Minimax`   | 3.6786                       | 3.6856         |              |
+| `Heuristic` | 3.6626                       | 3.7397         |          |
 | `Random`    | ~4.1                         | -              | -                |
 | `Fixed`     | 3.9853                       | -              | -                |
 
